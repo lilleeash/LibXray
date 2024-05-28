@@ -1,2 +1,2 @@
 LibXray.xcframework/** filter=lfs diff=lfs merge=lfs -text
-LibXray.zip filter=lfs diff=lfs merge=lfs -text
+LibXray.xcframework.zip filter=lfs diff=lfs merge=lfs -text
